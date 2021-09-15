@@ -7,4 +7,10 @@ package com.zgy;
  * @Created by Administrator
  */
 public class HelloGit {
+
+    @Override
+    public String toString() {
+        return super.toString();
+    }
 }
+
