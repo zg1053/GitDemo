@@ -1,5 +1,7 @@
 package com.zgy;
 
+import com.sun.corba.se.impl.protocol.AddressingDispositionException;
+
 /**
  * @Description TODO
  * @Classname HelloGit
@@ -11,6 +13,10 @@ public class HelloGit {
     @Override
     public String toString() {
         return super.toString();
+    }
+
+    public static void main(String[] args) {
+
     }
 }
 
