@@ -16,7 +16,11 @@ public class HelloGit {
     }
 
     public static void main(String[] args) {
-
+        System.out.println("G1");
+        System.out.println("G1");
+        System.out.println("G1");
+        System.out.println("G1");
+        System.out.println("G111111111");
     }
 }
 
